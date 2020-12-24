@@ -1,0 +1,27 @@
+{
+  "name": "passport-nekocas",
+  "version": "1.0.4",
+  "description": "nekocas sdk for passport",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekoWheel/passport-nekocas.git"
+  },
+  "author": "mugai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nekoWheel/passport-nekocas/issues"
+  },
+  "homepage": "https://github.com/nekoWheel/passport-nekocas#readme",
+  "dependencies": {
+    "nekocas": "^1.0.5",
+    "passport-strategy": "^1.0.0",
+    "url": "^0.11.0"
+  }
+}
